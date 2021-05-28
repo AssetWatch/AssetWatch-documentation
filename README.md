@@ -1,5 +1,9 @@
 # AssetWatch-documentation
 
+[Go to AssetWatch backend code repo](https://github.com/AssetWatch/AssetWatchBackend)
+[Go to AssetWatch frontend code repo](https://github.com/AssetWatch/AssetWatch-front)
+
+
 ## Project Description
 
 An app designed as an organizer to keep track of your stocks and cryptocurrencies
@@ -10,7 +14,9 @@ An app designed as an organizer to keep track of your stocks and cryptocurrencie
 * Maven - version 1.8
 * MariaDB - version 2.7.2
 * Hibernate - version 5.4.30
-* Javascript/HTML
+* Angular
+* TypeScript
+* JavaScript/HTML
 * JUnit - version 4.13.2
 * Mockito - version 3.9.0
 * Spring MVC
@@ -38,5 +44,5 @@ Or you can clone the backend and Frontend repositories in this repo and host thi
 
 ## Usage
 
-> Once on the page, you can log in with a user in the database using their username and password.
+> Once on the page, you can register a user and login with a their username and password.
 > Once logged in, a user can track, add, update, or remove investments from their portfolio using the intuitive GUI
