@@ -4,6 +4,7 @@
 
 [Go to AssetWatch frontend code repo](https://github.com/AssetWatch/AssetWatch-front)
 
+[Go to the live application](http://assetwatch.s3-website-us-east-1.amazonaws.com)
 
 ## Project Description
 
@@ -37,8 +38,7 @@ To-do list:
 
 ## Getting Started
    
-You can make use of this application by following this link. 
-http://ec2-54-167-32-149.compute-1.amazonaws.com:8080/AssetWatch/user/login
+[Go to the live applications](http://assetwatch.s3-website-us-east-1.amazonaws.com)
 
 Or you can clone the backend and Frontend repositories in this repo and host this app on your own server.
 
