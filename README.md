@@ -7,11 +7,10 @@
 
 ## Project Description
 
-An app designed as an organizer to keep track of your stocks and cryptocurrencies
+An app designed as an organizer to keep track of your stocks and cryptocurrencies.
 
 ## Technologies Used
 
-* Javalin - version 3.13.5
 * Maven - version 1.8
 * MariaDB - version 2.7.2
 * Hibernate - version 5.4.30
